@@ -4,7 +4,7 @@ Solving LeetCode problems daily to prepare for technical interviews.
 Following the NeetCode roadmap: neetcode.io
 
 ## Progress tracker
-- Problems solved: 0 / 150
+- Problems solved: 1 / 150
 - Current topic: Arrays & Strings
 
 ## Topics
